@@ -1,0 +1,19 @@
+7, 12, 9, 5, 8, 6, 10, 11, 13, 4
+
+"The quick brown fox jumps over the lazy dog"
+
+3.14159265359
+
+1997-08-29
+
+42.195 kilometers
+
+55%, 30%, 15%
+
+1.61803398875
+
+10.5, 11.2, 9.8, 10.1, 11.5
+
+"apple", "banana", "cherry", "durian", "elderberry"
+
+73, 89, 62, 57, 91, 80, 84, 76, 68, 75
